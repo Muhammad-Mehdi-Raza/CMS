@@ -1,0 +1,47 @@
+﻿@{
+    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>login</title>
+</head>
+<body>
+    
+    <div class="col-sm-4" style="border:4px solid green; margin-left:500px; margin-top:200px" >
+        <br />
+        <h3>LOGIN:</h3><br />
+       
+        <form class="form-horizontal" role="form" action="/home/transfer" method="post">
+            @**@
+
+            
+
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="email">UserId:</label>
+
+                <div class="col-lg-4">
+                    <input type="text" class="form-control" name="UserId" placeholder="Enter Id" required>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-sm-2" for="pwd">Password:</label>
+                <div class="col-lg-4">
+                    <input type="password" class="form-control" name="pwd" placeholder="Enter password" required>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-offset-2 col-sm-10">
+                    <button type="submit" class="btn btn-primary">Login</button>
+                </div>
+            </div>
+        </form>
+    </div>
+            <!-- end:Main Form -->
+        
+    
+</body>
+</html>
