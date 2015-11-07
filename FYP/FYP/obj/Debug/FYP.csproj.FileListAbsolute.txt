@@ -24,35 +24,3 @@ E:\BS SE new\SEMESTER_6\EDLAB\FYP\FYP\bin\System.Web.WebPages.Razor.xml
 E:\BS SE new\SEMESTER_6\EDLAB\FYP\FYP\obj\Debug\FYP.csprojResolveAssemblyReference.cache
 E:\BS SE new\SEMESTER_6\EDLAB\FYP\FYP\obj\Debug\FYP.dll
 E:\BS SE new\SEMESTER_6\EDLAB\FYP\FYP\obj\Debug\FYP.pdb
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\FYP.dll.config
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\FYP.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\FYP.pdb
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\Antlr3.Runtime.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\EntityFramework.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\Newtonsoft.Json.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Net.Http.Formatting.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.Http.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.Http.WebHost.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.Mvc.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.Optimization.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.Providers.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.Razor.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.WebPages.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.WebPages.Razor.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\WebGrease.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\EntityFramework.xml
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\Newtonsoft.Json.xml
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Net.Http.Formatting.xml
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.Http.xml
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.Http.WebHost.xml
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.Mvc.xml
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.Razor.xml
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.WebPages.xml
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\bin\System.Web.WebPages.Razor.xml
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\obj\Debug\FYP.csprojResolveAssemblyReference.cache
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\obj\Debug\FYP.dll
-C:\Users\Einstein\Documents\GitHub\CMS2\FYP\FYP\obj\Debug\FYP.pdb

@@ -130,6 +130,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\homeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -161,6 +162,7 @@
     </Content>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\default.css" />
     <Content Include="Content\jquery.fancybox.css" />
     <Content Include="Content\modern-business.css" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
@@ -236,7 +238,6 @@
       <DependentUpon>CMSModel.edmx</DependentUpon>
       <LastGenOutput>CMSModel.cs</LastGenOutput>
     </Content>
-    <None Include="Properties\PublishProfiles\bsef12m543.pubxml" />
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -272,6 +273,9 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\home\Index.cshtml" />
     <Content Include="Views\home\login.cshtml" />
+    <Content Include="Views\home\transfer.cshtml" />
+    <Content Include="Views\Shared\adminView.cshtml" />
+    <Content Include="Views\Admin\Index.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

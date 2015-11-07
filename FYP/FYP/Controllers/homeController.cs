@@ -26,8 +26,17 @@ namespace FYP.Controllers
         {
             string userId = Request["userId"];
             string pwd = Request["pwd"];
-            user u = dbEntity.users.First(n => n.password.Equals(pwd) );
-            return View();
+            try
+            {
+                user u = dbEntity.users.First(n => n.password.Equals(pwd) && n.userID.Equals(userId));
+            }
+             catch(Exception e)
+            {
+                return RedirectToAction("Index");
+            }
+            return View("../Admin/Index");
+            
+                
         }
 
     }
